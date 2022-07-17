@@ -85,7 +85,7 @@ Percentage of 5-Star Non-Vine Reviews.
  
 The Dataframe above displays total number of 5-Star reviews, percentage of 5-star unpaid reviews i.e., unpaid 5-star reviews divided by total amount of unpaid reviews, and percentage of paid reviews i.e., paid 5-star reviews divided by total amount of paid reviews.
 
-Analyzing the results, percentages for both paid and unpaid reviews are very close with 53.4% and 52.71% respectively. There could be some bias in paid reviews with a percentage of 53.4% which seems a bit high, but by comparison with unpaid reviews figure of 52.71% gives a very close range suggesting that vine results may be true.
+Analyzing the results, percentages for both paid and unpaid reviews are very close with 53.4% and 52.71% respectively. There could be some bias in paid reviews with a percentage of 53.4% which seems a bit high, but by comparison with unpaid reviews figure of 52.71%, gives a very close range, suggesting that vine results may be true.
 
 Additionally, the total amount of reviews is 37544 and the amount of paid reviews is 103,this range is too wide indicating that the proportion of reviews is unbalanced.
 
